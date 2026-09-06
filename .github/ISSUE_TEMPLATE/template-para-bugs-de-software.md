@@ -2,7 +2,7 @@
 name: Template para bugs de software
 about: Create a report to help us improve
 title: 'Bug: '
-labels: bug, enhancement
+labels: bug, enhancement, Mejora de software
 assignees: Eric-k-Lataa
 
 ---
